@@ -6,7 +6,7 @@ namespace OtherTestArlenys
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ver test");
+            Console.WriteLine("ver tesdbjsbdjsbt");
         }
     }
 }
